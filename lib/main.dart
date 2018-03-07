@@ -5,7 +5,7 @@ void main() {
     new Container(
       color: Colors.red,
       child: new Center(
-      child: new Text("Hello World new", textDirection: TextDirection.ltr,)
+      child: new Text("Hello World", textDirection: TextDirection.ltr,)
       )
   )
   );
